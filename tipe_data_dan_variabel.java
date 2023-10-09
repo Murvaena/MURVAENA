@@ -15,7 +15,8 @@ public class  tipe_data_dan_variabel {
       System.out.println("tinggi: "+ tinggi + "cm");
        usia = 20;
       System.out.println("usia: "+usia);
-      
+      usia = 20;
+        System.out.println("usia: "+usia);
     }
     
 }
